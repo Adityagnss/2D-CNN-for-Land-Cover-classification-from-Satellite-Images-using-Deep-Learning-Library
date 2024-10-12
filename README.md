@@ -1,0 +1,1 @@
+# 2D-CNN-for-Land-Cover-classification-from-Satellite-Images-using-Deep-Learning-Library
