@@ -1,4 +1,4 @@
-# 2D-CNN-for-Land-Cover-classification-from-Satellite-Images-using-Deep-Learning-Library
+# 2D CNN for Land Cover classification from Satellite Images using Deep Learning Library
 
 
 the implementation of the deep learning model, VGG16 for Add code cell ssification of Eurosat satellite images. 
